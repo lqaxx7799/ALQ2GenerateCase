@@ -16,7 +16,7 @@ namespace ALQ2GenerateCase
     {
         static void Main(string[] args)
         {
-            var connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection"].ConnectionString;
+            var connectionString = ConfigurationManager.ConnectionStrings["DefaultConnection2"].ConnectionString;
             var service = new CrmServiceClient(connectionString);
             if (!service.IsReady)
             {
@@ -40,16 +40,28 @@ namespace ALQ2GenerateCase
             //Console.WriteLine("Done! Message: {0}", createResponse.ToString());
 
 
-            QueryExpression query = new QueryExpression("knowledgearticle")
+            //QueryExpression query = new QueryExpression("knowledgearticle")
+            //{
+            //    ColumnSet = new ColumnSet("title", "articlepublicnumber", "createdon")
+            //};
+
+            //EntityCollection result = service.RetrieveMultiple(query);
+
+            //foreach (Entity article in result.Entities)
+            //{
+            //    Console.WriteLine($"Title: {article["title"]}, Article Number: {article["articlepublicnumber"]}, Created On: {article["createdon"]}");
+            //}
+
+            QueryExpression query = new QueryExpression("lead")
             {
-                ColumnSet = new ColumnSet("title", "articlepublicnumber", "createdon")
+                ColumnSet = new ColumnSet("firstname", "lastname", "jobtitle")
             };
 
             EntityCollection result = service.RetrieveMultiple(query);
 
-            foreach (Entity article in result.Entities)
+            foreach (var item in result.Entities)
             {
-                Console.WriteLine($"Title: {article["title"]}, Article Number: {article["articlepublicnumber"]}, Created On: {article["createdon"]}");
+                Console.WriteLine(item["firstname"] + " - " + item["lastname"] + " - " + item["jobtitle"]);
             }
 
             Console.ReadKey();

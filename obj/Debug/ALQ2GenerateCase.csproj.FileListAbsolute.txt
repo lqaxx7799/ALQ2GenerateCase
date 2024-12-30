@@ -33,3 +33,38 @@ D:\WORKSPACE\Div9\StudyDynamics365CRM\ALQ2GenerateCase\obj\Debug\ALQ2Gene.39F85E
 D:\WORKSPACE\Div9\StudyDynamics365CRM\ALQ2GenerateCase\obj\Debug\ALQ2GenerateCase.exe
 D:\WORKSPACE\Div9\StudyDynamics365CRM\ALQ2GenerateCase\obj\Debug\ALQ2GenerateCase.pdb
 D:\WORKSPACE\Div9\StudyDynamics365CRM\ALQ2GenerateCase\bin\Debug\Microsoft.Xrm.Sdk.Data.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\ALQ2GenerateCase.exe.config
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\ALQ2GenerateCase.exe
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\ALQ2GenerateCase.pdb
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Xrm.Sdk.Data.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Newtonsoft.Json.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Buffers.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Memory.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Numerics.Vectors.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Text.Encodings.Web.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Text.Json.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.ValueTuple.dll
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Buffers.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Memory.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Numerics.Vectors.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Text.Encodings.Web.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Text.Json.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\obj\Debug\ALQ2GenerateCase.csproj.AssemblyReference.cache
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\obj\Debug\ALQ2GenerateCase.csproj.CoreCompileInputs.cache
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\obj\Debug\ALQ2Gene.39F85EED.Up2Date
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\obj\Debug\ALQ2GenerateCase.exe
+D:\Quoc Anh Study\SmartOSC\Dynamic365-Projects\ALQ2GenerateCase\obj\Debug\ALQ2GenerateCase.pdb
